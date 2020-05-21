@@ -19,4 +19,4 @@ workflows:
   main:
     jobs:
       - build-and-test
-      print("Hello world")
+print("Hello")
